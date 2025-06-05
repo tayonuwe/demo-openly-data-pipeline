@@ -31,7 +31,7 @@ Openly-data-pipeline/
     └── test_this_script.py
 Installation and Setup
 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/lead-data-pipeline.git
+git clone https: https://github.com/tayonuwe/demo-openly-data-pipeline
 cd lead-data-pipeline
 2. Create a Virtual Environment
 python -m venv .venv
