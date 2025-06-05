@@ -1,0 +1,17 @@
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+.venv/
+
+# Ignore environment variables file
+.env
+
+# Ignore coverage reports
+htmlcov/
+*.log
+
