@@ -1,6 +1,8 @@
 Openly Data Cleaning and Scoring Pipeline
 Overview
-This project provides a pipeline to process messy lead data collected from various sources like CSV files, Google Sheets, and internal databases. It normalizes data fields, removes duplicates, scores leads based on their relevance to the corn starch supply chain, and exports the clean data to a CSV file. Infrastructure is deployed using AWS services via Terraform
+This project provides a pipeline to process messy lead data collected from various sources like CSV files, Google Sheets, and internal databases.
+It normalizes data fields, removes duplicates, scores leads based on their relevance to the corn starch supply chain, and exports the clean data to a CSV file.
+Infrastructure is deployed using AWS services via Terraform
 Features
 •	Normalize messy and inconsistent input data.
 •	Deduplicate company records.
